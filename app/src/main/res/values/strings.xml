@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTuristico Rio de Janeiro</string>
+    <string name="item_menu_esportes">Esportes</string>
+    <string name="item_menu_praias">Praias</string>
+    <string name="item_menu_restaurante">Restaurantes</string>
+    <string name="item_menu_turismo">Turismo</string>
+
+</resources>

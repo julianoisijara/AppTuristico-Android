@@ -1,0 +1,22 @@
+<resources>
+    <string name="item_turismo1">Bondinho do Pão de Açúcar</string>
+    <string name="item_turismo2">Av. Pasteur, 520 - Urca</string>
+
+    <string name="item_turismo3">Sambódromo</string>
+    <string name="item_turismo4">Rua Marquês de Sapucaí - Santo Cristo</string>
+
+    <string name="item_turismo5">Pedra Bonita</string>
+    <string name="item_turismo6">Estrada da Cascatinha - Parque Nacional da Tijuca</string>
+
+    <string name="item_turismo7">Museu do Amanhã</string>
+    <string name="item_turismo8">Praça Mauá, 1 - Centro\nContato: +55 21 3443-6341</string>
+
+    <string name="item_turismo9">Arcos da Lapa</string>
+    <string name="item_turismo10">Rua Riachuelo 27 - Lapa</string>
+
+    <string name="item_turismo11">Cristo Redentor</string>
+    <string name="item_turismo12">Rua Cosme Velho, 513 - Cosme Velho \nContato: 55 21 2558-1329</string>
+
+    <string name="item_turismo13">Lagoa Rodrigo de Freitas</string>
+    <string name="item_turismo14">Avenida Epitácio Pessoa - Lagoa</string>
+</resources>

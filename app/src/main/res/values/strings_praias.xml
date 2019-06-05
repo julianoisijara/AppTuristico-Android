@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="item_praias1">Pontal do Atalaia</string>
+    <string name="item_praias2">Arraial do Cabo</string>
+
+    <string name="item_praias3">Praia da Reserva</string>
+    <string name="item_praias4">Av. Lúcio Costa - Barra da Tijuca</string>
+
+    <string name="item_praias5">Praia Vermelha</string>
+    <string name="item_praias6">Praça General Tibúrcio - Urca</string>
+
+    <string name="item_praias7">Praia do Sono</string>
+    <string name="item_praias8">Paraty</string>
+
+    <string name="item_praias9">Praia do Leblon</string>
+    <string name="item_praias10">Avenida Ataulfo de Paiva - Leblon</string>
+
+    <string name="item_praias11">Praia do Forno</string>
+    <string name="item_praias12">Arraial do Cabo</string>
+
+    <string name="item_praias13">Praia do Forte</string>
+    <string name="item_praias14">Rua do Contorno - Cabo Frio</string>
+</resources>

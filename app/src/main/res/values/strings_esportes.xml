@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item_esportes1">Estádio Maracanã</string>
+    <string name="item_esportes2">Av. Pres. Castelo Branco - Maracanã \nContato: +55 21 4063-3003</string>
+
+    <string name="item_esportes3">Estádio Olímpico Nilton Santos</string>
+    <string name="item_esportes4">R. José dos Reis, 425 - Engenho de Dentro \nContato: +55 21 2546-1994</string>
+
+    <string name="item_esportes5">Aterro do Flamengo</string>
+    <string name="item_esportes6">Avenida Infante Dom Henrique, s/n Parque do Flamengo</string>
+
+    <string name="item_esportes7">Maracanãzinho</string>
+    <string name="item_esportes8">Av. Pres. Castelo Branco - Maracanã\nContato: +55 21 2334-1669</string>
+
+    <string name="item_esportes9">Trilha Dois Irmāos</string>
+    <string name="item_esportes10">Av. Niemeyer, 121 - Leblon \nContato: +55 21 98394-4928</string>
+
+    <string name="item_esportes11">Stand Up Paddle</string>
+    <string name="item_esportes12">Praia Vermelha - Urca</string>
+
+    <string name="item_esportes13">Futevôlei</string>
+    <string name="item_esportes14">Praia do Flamengo</string>
+</resources>

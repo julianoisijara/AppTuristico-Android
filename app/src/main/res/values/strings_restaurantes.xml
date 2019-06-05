@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="item_restaurantes1">Guiseppe Grill</string>
+    <string name="item_restaurantes2">Restaurante \nAv. Bartolomeu Mitre, 370 - Leblon\nContato: +55 21 2249-3055</string>
+
+    <string name="item_restaurantes3">Armazém São Thiago</string>
+    <string name="item_restaurantes4">Rua Aurea 26 - Santa Teresa\nContato: +55 21 2232-0822</string>
+
+    <string name="item_restaurantes5">Org Bistrô</string>
+    <string name="item_restaurantes6">Av. Olegário Maciel, 175 - Barra da Tijuca\nContato: +55 21 2493-1791</string>
+
+    <string name="item_restaurantes7">Restaurante Emile</string>
+    <string name="item_restaurantes8">Avenida Atlantica 3804 - Copacabana\nContato: +55 21 3503-6600</string>
+
+    <string name="item_restaurantes9">The Bistro</string>
+    <string name="item_restaurantes10">Av. Embaixador Abelardo Bueno, 5001 - Barra da Tijuca\nContato: +55 21 4560-2700</string>
+
+    <string name="item_restaurantes11">Restaurante Rayz</string>
+    <string name="item_restaurantes12">Av. das Américas, 19021 - Recreio dos Bandeirantes\nContato: +55 21 2146-6640</string>
+
+    <string name="item_restaurantes13">Galeto 183</string>
+    <string name="item_restaurantes14">Rua de Santana, 183 - Centro\nContato: +55 21 2252-3914</string>
+
+</resources>
